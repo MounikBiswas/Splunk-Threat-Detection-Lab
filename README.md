@@ -218,5 +218,6 @@ Screenshots of dashboards, alerts, reports, and test results are available in th
 > **Author:** Mounik Biswas  
 > **Certifications:** CCNA Essentials | CompTIA Security+  
 > **Domain:** Blue Team | SOC Operations | Security Analyst 
+---
 
 > 💡 *This lab was built purely for educational purposes in an isolated virtual environment. All attack simulations were conducted in a controlled setting with no impact on production systems.*
